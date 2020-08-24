@@ -7,6 +7,8 @@ int main() {
 		 << "\nint            " << sizeof(int)
 		 << "\nchar           " << sizeof(char)
 		 << "\nbool           " << sizeof(bool)
+		 << "\nfloat          " << sizeof(float)
+		 << "\ndouble         " << sizeof(double)
 		 << '\n';
 		 
 	return 0;
